@@ -1,0 +1,10 @@
+var firstName = "Ramu";
+var lastName = "P";
+var myNumber = 21;
+
+// TODO: change the following code
+var fullName = firstName + " " + lastName;
+var meaningOfLife = myNumber * 3;
+
+console.log("The name is " + fullName);
+console.log("The meaning of life is " + meaningOfLife);
